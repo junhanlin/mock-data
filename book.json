@@ -1,1 +1,68 @@
-{}
+{
+    "data":[
+        {
+              "contentID": "UNIQUE_ID",
+              "publisherID": "ppp1",
+              "bookID": "bbbb",
+              "title": "ttttttt",
+              "coverId": "UNIQUE_ID",
+              "description": "string",
+              "categories": [
+                "string"
+              ],
+              "tags": [
+                "string"
+              ],
+              "publishCountries": [
+                "string"
+              ],
+              "lastUpdatedTime": 1622124900,
+              "startTime": 1622124900,
+              "endTime": 1622124900,
+              "isEnded": true,
+              "lastChapter": 1,
+              "lastChapterTitle": "string",
+              "authors": [
+                {
+                  "name": "string",
+                  "nickname": "string",
+                  "avatar": "string",
+                  "description": "string"
+                }
+              ],
+              "isDeleted": false
+        },
+        {
+              "contentID": "UNIQUE_ID",
+              "publisherID": "ppp2",
+              "bookID": "ccccc",
+              "title": "ttttttt",
+              "coverId": "UNIQUE_ID",
+              "description": "string",
+              "categories": [
+                "string"
+              ],
+              "tags": [
+                "string"
+              ],
+              "publishCountries": [
+                "string"
+              ],
+              "lastUpdatedTime": 1622124900,
+              "startTime": 1622124900,
+              "endTime": 1622124900,
+              "isEnded": true,
+              "lastChapter": 1,
+              "lastChapterTitle": "string",
+              "authors": [
+                {
+                  "name": "string",
+                  "nickname": "string",
+                  "avatar": "string",
+                  "description": "string"
+                }
+              ],
+              "isDeleted": false
+        }
+    ]
+}
